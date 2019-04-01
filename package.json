@@ -1,7 +1,7 @@
 {
-  "name": "hackers-yacht-new-website",
+  "name": "react-app-with-typeform-example",
   "version": "1.0.0",
-  "description": "Hackers Yacht website, A Revolutionary New School for Creative People",
+  "description": "typeform example in react",
   "main": "",
   "scripts": {
     "dev": "next",
